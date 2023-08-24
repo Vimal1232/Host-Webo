@@ -625,3 +625,86 @@ body {
   background: #012048;
   transition: background 0.3s ease-in-out;
 }
+
+.teamwork {
+  background: white;
+}
+
+.teamwork_heading {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+}
+
+.teamwork_heading h2 {
+  font-size: 30px;
+  color: #043577;
+}
+.teamwork_people {
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  gap: 10px;
+}
+.card {
+  width: 350px;
+  height: 400px;
+  background: #043577;
+  box-shadow: -9px 9px 18px #5a5a5a, 9px -9px 18px #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  transition: 0.4s;
+  position: relative;
+}
+
+.card:hover {
+  transform: scale(1.02);
+}
+
+.card__img_1 {
+  width: 350px;
+  height: 300px;
+  background-size: cover;
+  background: url(/images/team-business-11.jpeg);
+}
+
+.card__descr-wrapper {
+  padding: 15px;
+  display: grid;
+}
+
+.card__title {
+  color: White;
+  text-align: center;
+  font-weight: 900;
+  font-size: 16px;
+}
+
+.card__descr {
+  color: rgb(193, 192, 192);
+  text-align: center;
+}
+
+.card_links {
+  color: white;
+  display: flex;
+  gap: 10px;
+  font-size: 20px;
+}
+.card__img_2 {
+  width: 350px;
+  height: 300px;
+  background-size: cover;
+  background: url(/images/team-business-22.jpeg);
+}
+.card__img_3 {
+  width: 350px;
+  height: 300px;
+  background-size: cover;
+  background: url(/images/team-business-33.jpeg);
+}
