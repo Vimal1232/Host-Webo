@@ -81,7 +81,7 @@ body {
 }
 
 .hero_section {
-  background: url(/images/main_img.jpeg);
+  background: url(images/main_img.jpeg);
   height: 500px;
   background-size: cover;
   position: relative;
@@ -359,7 +359,7 @@ body {
 }
 
 .solutions {
-  background: url(/images/webona-services-bg.jpeg);
+  background: url(images/webona-services-bg.jpeg);
   background-size: cover;
   height: 800px;
 }
@@ -529,7 +529,7 @@ body {
   gap: 10px;
 }
 .projects_block_1 {
-  background: url(/images/it-pro-1.jpeg);
+  background: url(images/it-pro-1.jpeg);
   background-size: cover;
   box-sizing: border-box;
   border-radius: 5px;
@@ -544,7 +544,7 @@ body {
   z-index: 1;
 }
 .projects_block_2 {
-  background: url(/images/it-pro-3.jpeg);
+  background: url(images/it-pro-3.jpeg);
   background-size: cover;
   box-sizing: border-box;
   border-radius: 5px;
@@ -559,7 +559,7 @@ body {
   z-index: 1;
 }
 .projects_block_3 {
-  background: url(/images/it-pro-2.jpeg);
+  background: url(images/it-pro-2.jpeg);
   background-size: cover;
   box-sizing: border-box;
   border-radius: 5px;
@@ -670,7 +670,7 @@ body {
   width: 350px;
   height: 300px;
   background-size: cover;
-  background: url(/images/team-business-11.jpeg);
+  background: url(images/team-business-11.jpeg);
 }
 
 .card__descr-wrapper {
@@ -700,11 +700,11 @@ body {
   width: 350px;
   height: 300px;
   background-size: cover;
-  background: url(/images/team-business-22.jpeg);
+  background: url(images/team-business-22.jpeg);
 }
 .card__img_3 {
   width: 350px;
   height: 300px;
   background-size: cover;
-  background: url(/images/team-business-33.jpeg);
+  background: url(images/team-business-33.jpeg);
 }
