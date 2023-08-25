@@ -643,7 +643,7 @@ body {
   color: #043577;
 }
 .teamwork_people {
-  margin-top: 30px;
+  margin-top: 40px;
   display: flex;
   align-items: center;
   justify-content: space-evenly;
@@ -664,6 +664,8 @@ body {
 
 .card:hover {
   transform: scale(1.02);
+  -webkit-transform: scale(1.02);
+  -moz-transform: scale(1.02);
 }
 
 .card__img_1 {
