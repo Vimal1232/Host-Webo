@@ -81,7 +81,7 @@ body {
 }
 
 .hero_section {
-  background: url(../images/main_img.jpeg);
+  background: url(images/main_img.jpeg);
   height: 500px;
   background-size: cover;
   position: relative;
